@@ -1,5 +1,6 @@
 {
   "projects": {
-    "production": "cafeselfieland-2584b"
+    "production": "cafeselfieland-2584b",
+    "default": "cafeselfieland-2584b"
   }
 }
